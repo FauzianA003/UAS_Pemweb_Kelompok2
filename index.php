@@ -6,6 +6,6 @@
     <title>Home - php</title>
 </head>
 <body>
-    
+    <h1>Halo semuanya</h1>
 </body>
 </html>
